@@ -1,0 +1,88 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+#header {
+    border-radius:5px;
+    z-index: 1;
+	position: fixed;
+	width: 97.5%;
+	margin-top: 10px;
+	height: 60px;
+	background-color:#004D6F;
+	margin-bottom: 10px;
+}
+
+#name {
+    float:left;
+    margin-left:8px;
+    font-family:Verdana;
+    color:white;
+}
+
+#email {
+    float:right;
+    text-decoration:none;
+    color:white;
+    margin-right:5px;
+    font-family:Verdana;
+}
+
+.right {
+    position: relative;
+	float: right;
+	margin-top: 80px;
+	width:88%;
+	height:925px;
+	background-color: #48CE81;
+	margin-bottom: 10px;
+}
+
+.left {
+    position:relative;
+    float:left;
+    background-color:#483981;
+    height:925px;
+    width:11%;
+    margin-top:80px;
+
+}
+
+#footer {
+
+}
+
+h4 {
+    margin-left:10px;
+    font-family:tahoma;
+    margin-bottom:20px;
+}
+
+div {
+    border-radius:5px;
+}
+
+a:hover {
+    font-weight:bold;
+}
+
+.tab {
+    margin-left:20px;
+    margin-top: 0px;
+    margin-bottom:10px;
+}
+
+ul {
+    margin-top:-10px;
+}
+
+#date {
+    margin-left:700px;
+}
+
+#date1 {
+    margin-left:528px;
+}
+
+.skills {
+    margin: -5px 3px 3px 20px;
+}

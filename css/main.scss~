@@ -31,7 +31,7 @@
     position: relative;
 	float: right;
 	margin-top: 80px;
-	width:90%;
+	width:88%;
 	height:1000px;
 	background-color: #48CE81;
 	margin-bottom: 10px;

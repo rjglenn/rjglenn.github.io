@@ -29,7 +29,7 @@
   height: 1000px;
   background-color: #48CE81;
   margin-bottom: 10px;
-  padding-bottom: 80px}
+  padding-bottom: 80px; }
 
 .left {
   position: relative;
@@ -38,7 +38,7 @@
   height: 1000px;
   width: 11%;
   margin-top: 80px;
-  padding-bottom: 80px}
+  padding-bottom: 80px; }
 
 h4 {
   margin-left: 10px;

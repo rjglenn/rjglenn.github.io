@@ -28,13 +28,13 @@
   width: 88%;
   height: 100%;
   background-color: #48CE81;
-  padding-bottom: 80px; }
+  padding-bottom: 40px; }
 
 .left {
   position: relative;
   float: left;
   background-color: #483981;
-  height: 100%;
+  height: 120%;
   width: 11%;
   margin-top: 80px; }
 

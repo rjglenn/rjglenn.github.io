@@ -28,7 +28,8 @@
   width: 88%;
   height: 1000px;
   background-color: #48CE81;
-  margin-bottom: 10px; }
+  margin-bottom: 10px;
+  padding-bottom: 80px}
 
 .left {
   position: relative;

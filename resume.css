@@ -26,7 +26,7 @@
   float: right;
   margin-top: 80px;
   width: 88%;
-  height: 1000px;
+  height: 100%;
   background-color: #48CE81;
   margin-bottom: 10px;
   padding-bottom: 80px; }
@@ -35,7 +35,7 @@
   position: relative;
   float: left;
   background-color: #483981;
-  height: 1000px;
+  height: 100%;
   width: 11%;
   margin-top: 80px;
   padding-bottom: 80px; }

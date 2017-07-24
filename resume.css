@@ -57,10 +57,12 @@ ul {
   margin-top: -10px; }
 
 #date {
-  margin-left: 700px; }
+  float: right;
+  padding-right: 10px; }
 
 #date1 {
-  margin-left: 528px; }
+  float:right;
+  padding-right: 10px; }
 
 .skills {
   margin: -5px 3px 3px 20px; }

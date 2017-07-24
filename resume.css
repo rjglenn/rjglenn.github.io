@@ -28,13 +28,13 @@
   width: 88%;
   height: auto;
   background-color: #48CE81;
-  padding-bottom: 20px; }
+  padding-bottom: 40px; }
 
 .left {
   position: relative;
   float: left;
   background-color: #483981;
-  height: auto;
+  height: 100vh;
   width: 11%;
   margin-top: 80px; }
 

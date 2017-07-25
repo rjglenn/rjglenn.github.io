@@ -13,3 +13,12 @@ sass:
 include: ['_pages']
 kramdown:
   input: GFM
+collections:
+  projects:
+      output: true
+
+defaults:
+    -scope:
+     type: projects
+   value:
+      layout: page

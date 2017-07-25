@@ -26,14 +26,14 @@
   float: right;
   margin-top: 80px;
   width: 88%;
-  height: 80vh;
+  margin-bottom: 10px;
   background-color: #48CE81; }
 
 .left {
   position: relative;
   float: left;
   background-color: #483981;
-  height: 80vh;
+  margin-bottom: 10px;
   width: 11%;
   margin-top: 80px; }
 

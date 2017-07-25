@@ -3,6 +3,16 @@ title: Roberta Glenn's Resume
 email: bertaglenn21@gmail.com
 description: >
   A summary of my education and experience.
+collections:
+  projects:
+      output: true
+
+defaults:
+    -scope:
+     type: projects
+   value:
+      layout: page
+
 baseurl: "/resume"
 url: "http://rjglenn.github.io"
 twitter_username: bertaglenn
@@ -13,12 +23,3 @@ sass:
 include: ['_pages']
 kramdown:
   input: GFM
-collections:
-  projects:
-      output: true
-
-defaults:
-    -scope:
-     type: projects
-   value:
-      layout: page

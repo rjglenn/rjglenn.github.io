@@ -15,11 +15,3 @@ defaults:
 
 baseurl: "/resume"
 url: "http://rjglenn.github.io"
-twitter_username: bertaglenn
-github_username:  rjglenn
-# Build Settings
-sass:
-  sass_dir: _sass
-include: ['_pages']
-kramdown:
-  input: GFM
